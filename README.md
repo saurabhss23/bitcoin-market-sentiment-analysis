@@ -63,7 +63,6 @@ bitcoin-market-sentiment-analysis/
 │
 ├── Saurabh_Shukla_Bitcoin_Market_Sentiment_Analysis.ipynb
 ├── README.md
-└── Report.pdf
 ```
 
 ---
